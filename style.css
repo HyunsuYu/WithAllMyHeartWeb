@@ -18,6 +18,7 @@ body {
     justify-content: center;
     background: linear-gradient(to bottom, #000 0%, #282369 100%);
     font-family: 'mainFont';
+    min-width: 1000px;
 }
 
 h1 {
